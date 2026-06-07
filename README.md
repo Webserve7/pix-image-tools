@@ -39,6 +39,18 @@ https://pix.webservetechnology.com/passport-size-photo
 
 https://pix.webservetechnology.com/watermark-image
 
+### Upscale Image
+
+https://pix.webservetechnology.com/upscale-image
+
+### Rotate Image
+
+https://pix.webservetechnology.com/rotate-image
+
+### Remove Background
+
+https://pix.webservetechnology.com/remove-background
+
 ## Website
 
 https://pix.webservetechnology.com
