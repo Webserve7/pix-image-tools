@@ -1,4 +1,4 @@
-# pix-image-tools
+# pix-image-tools by Webserve Technology
 Free online image tools for resizing, cropping, compressing, converting, and optimizing images.
 # Pix Image Tools
 
