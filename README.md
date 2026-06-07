@@ -31,6 +31,10 @@ https://pix.webservetechnology.com/crop-image
 
 https://pix.webservetechnology.com/convert-image
 
+### Passport size Photo Maker
+
+https://pix.webservetechnology.com/passport-size-photo
+
 ## Website
 
 https://pix.webservetechnology.com
