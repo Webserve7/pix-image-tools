@@ -39,6 +39,10 @@ https://pix.webservetechnology.com/passport-size-photo
 
 https://pix.webservetechnology.com
 
+### Watermark Image
+
+https://pix.webservetechnology.com/watermark-image
+
 ## Company
 
 Webserve Technology
